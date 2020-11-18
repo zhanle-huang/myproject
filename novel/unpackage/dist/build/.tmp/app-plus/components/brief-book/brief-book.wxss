@@ -1,0 +1,28 @@
+.brief.data-v-b2085ad0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  padding: 0 26rpx;
+}
+.brief .list.data-v-b2085ad0 {
+  width: 150rpx;
+  margin-right: 22rpx;
+  margin-bottom: 32rpx;
+}
+.brief .list ._img.data-v-b2085ad0 {
+  width: 100%;
+  height: 194rpx;
+  border-radius: 10rpx;
+}
+.brief .list ._p.data-v-b2085ad0 {
+  font-size: 26rpx;
+}
+.brief .list.data-v-b2085ad0:nth-child(4) {
+  margin-right: 0;
+}
+

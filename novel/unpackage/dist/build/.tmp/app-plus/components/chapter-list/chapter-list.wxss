@@ -1,0 +1,100 @@
+.scroll-Y {
+  height: 500rpx;
+}
+.chapter-container {
+  width: 750rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  position: fixed;
+  top: 0;
+  left: -500px;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.shadow-box {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0;
+      -ms-flex: 1 0;
+          flex: 1 0;
+  background-color: #333;
+  opacity: 0.5;
+}
+.chapter-list {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 75%;
+      -ms-flex: 0 0 75%;
+          flex: 0 0 75%;
+  background-color: #FEFEFE;
+  padding: 30rpx;
+}
+.chapter-list .chapter-list-top {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.chapter-list .chapter-list-top .img {
+  width: 120rpx;
+  height: 170rpx;
+  border-radius: 6rpx;
+  margin-right: 20rpx;
+}
+.chapter-list .chapter-list-top .name {
+  color: #333333;
+}
+.chapter-list .chapter-list-top .author {
+  font-size: 30rpx;
+  color: #555555;
+  margin-top: 20rpx;
+}
+.chapter-list .chapter-list-middle {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 30rpx 0;
+}
+.chapter-list .chapter-list-middle .left {
+  color: #999999;
+  font-size: 26rpx;
+}
+.chapter-list .chapter-list-middle .left .fenge {
+  color: #C0C0C0;
+  font-size: 20rpx;
+  line-height: 20rpx;
+  padding: 0 8rpx;
+}
+.chapter-list .chapter-list-middle .right {
+  font-size: 26rpx;
+}
+.chapter-list .chapter-list-middle .right ._span {
+  margin-right: 14rpx;
+}
+.chapter-list .chapter-list-footer {
+  font-size: 28rpx;
+}
+.chapter-list .chapter-list-footer view {
+  border-top: 1rpx solid #F5F5F5;
+  margin-right: 12rpx;
+  padding: 20rpx 0;
+}
+

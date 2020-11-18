@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#F5F5F5",
+  "usingComponents": {
+    "boy-novel": "/components/boy-novel/boy-novel"
+  }
+}

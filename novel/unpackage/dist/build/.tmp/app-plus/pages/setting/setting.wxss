@@ -1,0 +1,93 @@
+.setting-container {
+  padding-top: 30rpx;
+  padding-left: 50rpx;
+  background-color: #fff;
+}
+.setting-container .setting .settint-font {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20rpx 0;
+  height: 120rpx;
+}
+.setting-container .setting .settint-font ._p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.setting-container .setting .settint-font ._p ._span {
+  height: 100%;
+  border: 2rpx solid #fff;
+  padding: 8rpx 40rpx;
+  border-radius: 50rpx;
+}
+.setting-container .setting .settint-font ._p .font-fize {
+  width: 130rpx;
+  border: none;
+  color: #C0C0C0;
+}
+.setting-container .setting .background {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.setting-container .setting .background ._p {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.setting-container .setting .background ._p view {
+  padding: 6rpx;
+  margin-right: 35rpx;
+  border: 2rpx solid #333333;
+  border-radius: 50%;
+}
+.setting-container .setting .background ._p view ._span {
+  display: block;
+  padding: 30rpx;
+  border-radius: 50%;
+}
+.setting-container .setting .background ._p view.active {
+  border: 2rpx solid #fff;
+}
+.setting-container .setting .title {
+  font-size: 34rpx;
+  margin-right: 30rpx;
+}
+

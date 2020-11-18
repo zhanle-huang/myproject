@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#F5F5F5",
+  "usingComponents": {
+    "s-tabs": "/components/s-tabs/index",
+    "s-tab": "/components/s-tab/index",
+    "card-box": "/components/card-box/card-box",
+    "book-list": "/components/book-list/book-list",
+    "brief-book": "/components/brief-book/brief-book",
+    "name-list": "/components/name-list/name-list",
+    "boy-novel": "/components/boy-novel/boy-novel"
+  }
+}

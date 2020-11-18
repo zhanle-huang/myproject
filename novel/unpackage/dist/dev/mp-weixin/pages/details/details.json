@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#E6DFBD",
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "chapter-list": "/components/chapter-list/chapter-list"
+  }
+}

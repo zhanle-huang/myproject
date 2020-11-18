@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "index-anchor": "/components/sideCategoryList/index-anchor",
+    "index-list-component": "/components/sideCategoryList/index-list"
+  },
+  "component": true
+}

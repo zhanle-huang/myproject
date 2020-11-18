@@ -1,0 +1,36 @@
+page {
+  background-color: #fff;
+  padding-top: 30rpx;
+}
+.login-item {
+  padding: 15rpx 30rpx;
+}
+.item-title {
+  font-size: 32rpx;
+  color: #555555;
+}
+.login-input {
+  border: 1px solid #C0C0C0;
+  padding: 20rpx 10rpx;
+  border-radius: 12rpx;
+  margin-top: 10rpx;
+  color: #808080;
+  font-size: 35rpx;
+  font-weight: 400;
+}
+.loginCrtol {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-top: 40rpx;
+}
+.loginCrtol .login-box {
+  margin-right: 130rpx;
+}
+.loginCrtol .btn {
+  background-color: #FFDE00;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "小说分类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "title-list": "/components/title-list/title-list"
+  }
+}

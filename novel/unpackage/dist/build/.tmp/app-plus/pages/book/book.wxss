@@ -1,0 +1,164 @@
+.book_content.data-v-5d53a2a4 {
+  width: 748rpx;
+  letter-spacing: 4rpx;
+}
+.book_content .head.data-v-5d53a2a4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: #8C4E49;
+  color: #FFFFFF;
+  padding: 40rpx 30rpx;
+}
+.book_content .head .left ._h3.data-v-5d53a2a4 {
+  font-size: 40rpx;
+  font-weight: 500;
+  margin-bottom: 30rpx;
+}
+.book_content .head .left ._p.data-v-5d53a2a4 {
+  font-size: 30rpx;
+  color: #D4D0D0;
+  margin-bottom: 30rpx;
+  letter-spacing: 1rpx;
+}
+.book_content .head .left .info.data-v-5d53a2a4 {
+  margin-top: 130rpx;
+  margin-bottom: 0;
+}
+.book_content .head .right .img.data-v-5d53a2a4 {
+  width: 210rpx;
+  height: 290rpx;
+  border-radius: 10rpx;
+}
+.book_content .tips.data-v-5d53a2a4 {
+  padding: 30rpx 0 0 0;
+  background-color: #fff;
+  margin-bottom: 24rpx;
+}
+.book_content .tips .top.data-v-5d53a2a4 {
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20rpx 110rpx;
+  border-bottom: 1px solid #EBEEF5;
+}
+.book_content .tips .top ._p.data-v-5d53a2a4 {
+  font-size: 32rpx;
+  margin-top: 16rpx;
+  margin-bottom: 16rpx;
+}
+.book_content .tips .top ._span.data-v-5d53a2a4 {
+  font-size: 32rpx;
+  color: #808080;
+}
+.book_content .tips .top .left .score.data-v-5d53a2a4 {
+  font-size: 46rpx;
+  font-weight: 700;
+  color: #333333;
+  margin-right: 8rpx;
+}
+.book_content .tips .top .right ._p.data-v-5d53a2a4 {
+  color: #808080;
+  line-height: 40rpx;
+}
+.book_content .tips .top .right .num.data-v-5d53a2a4 {
+  font-size: 46rpx;
+  font-weight: 700;
+  color: #333333;
+  margin-right: 8rpx;
+}
+.book_content .tips .bottom.data-v-5d53a2a4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.book_content .tips .bottom ._p.data-v-5d53a2a4 {
+  font-size: 32rpx;
+  padding: 40rpx 14rpx;
+}
+.book_content .tips .bottom .rank.data-v-5d53a2a4 {
+  color: #DD524D;
+  font-weight: 600;
+  font-size: 36rpx;
+}
+.book_content .tips .bottom .iconfont.data-v-5d53a2a4 {
+  font-size: 28rpx;
+  margin-right: 30rpx;
+  line-height: 44rpx;
+  padding: 40rpx 14rpx;
+  color: #C0C0C0;
+}
+.book_content .chapter-title.data-v-5d53a2a4,
+.book_content .item_content.data-v-5d53a2a4 {
+  padding: 30rpx;
+  background-color: #fff;
+}
+.book_content .chapter-title .content-p.data-v-5d53a2a4,
+.book_content .item_content .content-p.data-v-5d53a2a4 {
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.book_content .item_list.data-v-5d53a2a4 {
+  background-color: #fff;
+}
+.book_content .footer.data-v-5d53a2a4 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20rpx 0;
+  position: fixed;
+  bottom: 0rpx;
+  background-color: #fff;
+}
+.book_content .footer ._p.data-v-5d53a2a4 {
+  padding: 20rpx 60rpx;
+  font-size: 34rpx;
+  margin: 0 30rpx;
+}
+.book_content .footer .add_to_shelf.data-v-5d53a2a4 {
+  line-height: 40rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  padding: 20rpx 30rpx;
+  border: 1px solid #C0C0C0;
+  border-radius: 50rpx;
+}
+.book_content .footer .add_to_shelf .iconfont.data-v-5d53a2a4 {
+  margin-right: 14rpx;
+}
+.book_content .footer .read.data-v-5d53a2a4 {
+  border-radius: 50rpx;
+  background-color: #FFD014;
+}
+.v-tabs.data-v-5d53a2a4 {
+  border-bottom: 1rpx solid #E6E6E6;
+}
+

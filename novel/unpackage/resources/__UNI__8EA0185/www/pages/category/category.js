@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"customClass.",[1],"data-v-6d03b872 { position: fixed; background-color: #fff; top: ",[0,5],"; z-index: 888; }\n.",[1],"article.",[1],"data-v-6d03b872 { text-align: center; background-color: #fff; position: fixed; top: 0; z-index: 999; }\n",],undefined,{path:"./pages/category/category.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/category/category.wxml') } }));

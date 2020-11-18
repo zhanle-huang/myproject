@@ -1,0 +1,81 @@
+page.data-v-5ca45ba8 {
+  background-color: #fff;
+}
+.edit-nav.data-v-5ca45ba8 {
+  margin: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  position: fixed;
+  top: 0rpx;
+  right: 20rpx;
+  z-index: 1000;
+}
+.bookShelf.data-v-5ca45ba8 {
+  padding: 20rpx 30rpx;
+}
+.bookShelf .book.data-v-5ca45ba8 {
+  position: relative;
+}
+.bookShelf .book .del-checkbox.data-v-5ca45ba8 {
+  width: 750rpx;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  z-index: 56;
+}
+.bookShelf .book .del-checkbox .del-btn.data-v-5ca45ba8 {
+  margin-right: 100rpx;
+}
+.bookShelf .book .e-navigator.data-v-5ca45ba8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  border-bottom: 1px solid #F5F5F5;
+  padding: 30rpx 0;
+}
+.bookShelf .book .e-navigator .img.data-v-5ca45ba8 {
+  width: 147rpx;
+  height: 200rpx;
+  margin-right: 20rpx;
+  border-radius: 6rpx;
+}
+.bookShelf .book .e-navigator ._span.data-v-5ca45ba8 {
+  display: block;
+  letter-spacing: 1rpx;
+}
+.bookShelf .book .e-navigator .name.data-v-5ca45ba8 {
+  font-size: 42rpx;
+}
+.bookShelf .book .e-navigator .author.data-v-5ca45ba8 {
+  font-size: 27rpx;
+  color: #808080;
+  margin-top: 20rpx;
+}
+.bookShelf .book .e-navigator .status.data-v-5ca45ba8 {
+  font-size: 30rpx;
+  margin-top: 50rpx;
+}
+

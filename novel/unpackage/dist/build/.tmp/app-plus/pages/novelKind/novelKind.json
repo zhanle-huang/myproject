@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小说分类",
+  "usingComponents": {
+    "book-list": "/components/book-list/book-list"
+  }
+}

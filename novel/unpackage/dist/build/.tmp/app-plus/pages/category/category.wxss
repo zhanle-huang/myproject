@@ -1,0 +1,14 @@
+.customClass.data-v-6d03b872 {
+  position: fixed;
+  background-color: #fff;
+  top: 5rpx;
+  z-index: 888;
+}
+.article.data-v-6d03b872 {
+  text-align: center;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+

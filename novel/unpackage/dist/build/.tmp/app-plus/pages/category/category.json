@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "s-tabs": "/components/s-tabs/index",
+    "s-tab": "/components/s-tab/index",
+    "left-category": "/components/left-category/left-category"
+  }
+}

@@ -1,0 +1,12 @@
+@charset "UTF-8";page{margin-top:78rpx;padding-top:78rpx}._h3{font-family:楷体,楷体_GB2312,sans-serif}.navFixed{position:fixed;width:750rpx;background-color:#f5f5f5;top:0rpx;z-index:999}.content{padding:20rpx}.content .navCardBottom,
+.content .navCardTop{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between}.content .navCardBottom .topNav,
+.content .navCardTop .topNav{width:296rpx;padding:16rpx;text-align:left;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;background-color:#dde8f4;border-radius:10rpx;padding-left:26rpx;margin-bottom:12rpx}.content .navCardBottom .topNav ._img,
+.content .navCardTop .topNav ._img{width:130rpx;height:120rpx;margin-right:8rpx}.content .navCardBottom ._h3,
+.content .navCardTop ._h3{font-size:38rpx;font-weight:600;line-height:60rpx;margin-top:10rpx}.content .navCardBottom ._p,
+.content .navCardTop ._p{font-size:26rpx;color:#3f536e}.content .navCardBottom uni-navigator:nth-child(1) .topNav,
+.content .navCardTop uni-navigator:nth-child(1) .topNav{background-color:#dde8f4}.content .navCardBottom uni-navigator:nth-child(2) .topNav,
+.content .navCardTop uni-navigator:nth-child(2) .topNav{background-color:#e5e9f5}.content .navCardBottom .navC,
+.content .navCardTop .navC{width:180rpx;background-color:#f0f1e9;border-radius:10rpx;padding:20rpx 20rpx;margin-bottom:12rpx}.content .navCardBottom .navC ._h3,
+.content .navCardBottom .navC ._p,
+.content .navCardTop .navC ._h3,
+.content .navCardTop .navC ._p{margin-left:10rpx;line-height:40rpx}.search{position:fixed;top:20rpx;right:100rpx;z-index:1000;color:#f0ad4e}.win-swiper{position:relative;top:0;bottom:0;width:750rpx;overflow-x:hidden;height:2000rpx}.win-swiper .my-swiper{width:2250rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-pack:start;-webkit-justify-content:start;justify-content:start;position:absolute;left:0;top:0;-webkit-transition:all .2s;transition:all .2s}.win-swiper .my-swiper .scroll-index{height:2000rpx;width:750rpx;position:absolute;top:0;bottom:0}.win-swiper .my-swiper .swiper-item{width:750rpx}.win-swiper .my-swiper.swiperStyle1{left:-750rpx}.win-swiper .my-swiper.swiperStyle2{left:-1500rpx}

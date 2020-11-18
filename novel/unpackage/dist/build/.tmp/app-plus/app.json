@@ -1,0 +1,89 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/category",
+    "pages/bookShelf/bookShelf",
+    "pages/my/my",
+    "pages/novelKind/novelKind",
+    "components/book-list/book-list",
+    "components/card-box/card-box",
+    "components/name-list/name-list",
+    "components/brief-book/brief-book",
+    "components/category-card/category-card",
+    "components/list-card/list-card",
+    "components/left-category/left-category",
+    "pages/book/book",
+    "components/swiper-tab/swiper-tab",
+    "components/title-list/title-list",
+    "components/boy-novel/boy-novel",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/details/details",
+    "components/chapter-list/chapter-list",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "jojo",
+    "navigationBarBackgroundColor": "#FFDE00",
+    "backgroundColor": "#007AFF"
+  },
+  "tabBar": {
+    "color": "#262822",
+    "selectedColor": "262822",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/homed.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/category/category",
+        "iconPath": "static/icons/category.png",
+        "selectedIconPath": "static/icons/categoried.png"
+      },
+      {
+        "text": "书架",
+        "pagePath": "pages/bookShelf/bookShelf",
+        "iconPath": "static/icons/bookshelf.png",
+        "selectedIconPath": "static/icons/bookshelfed.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my",
+        "iconPath": "static/icons/my.png",
+        "selectedIconPath": "static/icons/myed.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "novel",
+  "compilerVersion": "2.3.7",
+  "usingComponents": {
+    "nav-bar": "/components/lz-navBar/navBar",
+    "s-tab": "/components/s-tab/index",
+    "s-tabs": "/components/s-tabs/index",
+    "book-list": "/components/book-list/book-list",
+    "card-box": "/components/card-box/card-box",
+    "name-list": "/components/name-list/name-list",
+    "brief-book": "/components/brief-book/brief-book",
+    "category-list": "/components/sideCategoryList/category-list",
+    "category-card": "/components/category-card/category-card",
+    "list-card": "/components/list-card/list-card",
+    "left-category": "/components/left-category/left-category",
+    "swiper-tab": "/components/swiper-tab/swiper-tab",
+    "title-list": "/components/title-list/title-list",
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "boy-novel": "/components/boy-novel/boy-novel",
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item",
+    "ming-pop": "/components/ming-pop/ming-pop"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item"
+  }
+}

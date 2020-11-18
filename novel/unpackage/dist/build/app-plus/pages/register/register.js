@@ -1,0 +1,2 @@
+setCssToHead(["body { background-color: #fff; padding-top: ",[0,50],"; }\nwx-input { padding-left: ",[0,30],"; color: #555555; }\n.",[1],"submitCtrol { padding: 0 ",[0,30],"; margin-top: ",[0,150],"; }\n.",[1],"submitCtrol .",[1],"register-btn { background-color: #FFDE00; }\n.",[1],"mingPop { text-align: center; color: #555555; }\n",],undefined,{path:"./pages/register/register.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/register/register.wxml') } }));

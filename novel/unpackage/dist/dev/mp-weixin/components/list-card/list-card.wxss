@@ -1,0 +1,84 @@
+.content_list.data-v-cb743578 {
+  width: 100%;
+}
+.content_list .list_content.data-v-cb743578 {
+  border-radius: 10rpx;
+  margin: 38rpx 0;
+  overflow: hidden;
+}
+.content_list .list_content .scroll-Y.data-v-cb743578 {
+  height: 667px;
+}
+.content_list .list_content .book_card.data-v-cb743578 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  background-color: #fff;
+  padding: 20rpx 16rpx 20rpx 16rpx;
+}
+.content_list .list_content .book_card ._img.data-v-cb743578 {
+  width: 130rpx;
+  width: 160rpx;
+  height: 150rpx;
+  border-radius: 10rpx;
+  margin-right: 16rpx;
+}
+.content_list .list_content .book_card .right.data-v-cb743578 {
+  width: 570rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.content_list .list_content .book_card .right .r_left.data-v-cb743578 {
+  width: 230rpx;
+}
+.content_list .list_content .book_card .right .r_left ._h3.data-v-cb743578 {
+  font-weight: 400;
+  font-size: 33rpx;
+  word-spacing: 3rpx;
+  letter-spacing: 4rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 14rpx;
+}
+.content_list .list_content .book_card .right .r_left ._p.data-v-cb743578 {
+  font-size: 22rpx;
+  color: #808080;
+  margin-top: 38rpx;
+}
+.content_list .list_content .book_card .right .r_right.data-v-cb743578 {
+  padding-top: 40rpx;
+}
+.content_list .list_content .book_card .right .r_right .num.data-v-cb743578 {
+  text-align: right;
+  display: block;
+  color: #FF5101;
+  font-size: 26rpx;
+  margin-bottom: 10rpx;
+}
+.content_list .list_content .book_card .right .r_right .desc.data-v-cb743578 {
+  display: block;
+  text-align: right;
+  font-size: 24rpx;
+  color: #808080;
+}
+.content_list .list_content .book_card.data-v-cb743578:active {
+  -webkit-transform: scale(0.95, 0.95);
+          transform: scale(0.95, 0.95);
+}
+.top_tip.data-v-cb743578 {
+  display: inline;
+  padding: 14rpx 24rpx;
+  font-size: 32rpx;
+  background-color: #FFD700;
+  border-radius: 30rpx 0 30rpx 0;
+  margin: 28rpx 0;
+}
+

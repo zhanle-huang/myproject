@@ -1,0 +1,29 @@
+page.data-v-310b0928 {
+  background-color: #fff;
+}
+.kind.data-v-310b0928 {
+  padding: 30rpx;
+  border-bottom: 1px solid #EBEEF5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.kind ._span.data-v-310b0928 {
+  padding: 15rpx 30rpx;
+  background-color: #E9C341;
+  border-radius: 50rpx;
+  margin-right: 15rpx;
+  margin-bottom: 15px;
+  font-size: 28rpx;
+  color: #FFFFFF;
+}
+.kind ._span.active.data-v-310b0928 {
+  background-color: #fff;
+  color: #E9C341;
+}
+

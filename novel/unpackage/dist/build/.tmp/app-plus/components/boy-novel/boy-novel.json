@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "card-box": "/components/card-box/card-box",
+    "book-list": "/components/book-list/book-list"
+  }
+}

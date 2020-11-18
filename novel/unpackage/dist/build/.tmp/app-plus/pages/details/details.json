@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "chapter-list": "/components/chapter-list/chapter-list"
+  }
+}
